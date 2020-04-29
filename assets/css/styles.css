@@ -990,6 +990,16 @@ a.btn-cta {
   .text{
     font-size: 15px;
   }
+
+  .CompanyPhone{
+    font-size: 10px;
+  }
+
+  .SocialSprites{
+    width: 15px;
+    height: 15px;
+    margin-left: 10px
+  }
 }
 /* Small devices (tablets, 768px and up) */
 @media (min-width: 768px) {
@@ -1014,15 +1024,6 @@ a.btn-cta {
   }
   .text{
     font-size: 20px;
-  }
-  .CompanyPhone{
-    font-size: 10px;
-  }
-
-  .SocialSprites{
-    width: 15px;
-    height: 15px;
-    margin-left: 10px
   }
 }
 /* Medium devices (desktops, 992px and up) */
