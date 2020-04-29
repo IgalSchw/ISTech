@@ -995,11 +995,13 @@ a.btn-cta {
     font-size: 15px;
   }
 
+/*
   .SocialSprites{
     width: 10px;
     height: 10px;
     margin-left: 15px;
   }
+  */
 }
 /* Small devices (tablets, 768px and up) */
 @media (min-width: 768px) {
