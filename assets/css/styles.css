@@ -1012,17 +1012,18 @@ a.btn-cta {
   .team-section .item-inner {
     min-height: 515px;
   }
-
   .text{
     font-size: 20px;
   }
-
+  .CompanyPhone{
+    font-size: 15px;
+  }
+  
   .SocialSprites{
     width: 15px;
     height: 15px;
     margin-left: 10px
   }
-
 }
 /* Medium devices (desktops, 992px and up) */
 @media (min-width: 992px) {
