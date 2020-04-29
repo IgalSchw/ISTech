@@ -882,6 +882,7 @@ a.btn-cta {
   justify-content: center;
   align-items: center;
 }
+
 /* Extra small devices (phones, less than 768px) */
 @media (max-width: 767px) {
   .navbar-collapse {
@@ -987,7 +988,7 @@ a.btn-cta {
   }
 
   .text{
-    font-size: 20px;
+    font-size: 15px;
   }
 }
 /* Small devices (tablets, 768px and up) */
