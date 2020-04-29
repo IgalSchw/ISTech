@@ -991,17 +991,16 @@ a.btn-cta {
     font-size: 20px;
   }
 
-
   .CompanyPhone{
     font-size: 15px;
   }
-/*
+
   .SocialSprites{
     width: 15px;
     height: 15px;
     margin-left: 15px;
   }
-  */
+  
 }
 /* Small devices (tablets, 768px and up) */
 @media (min-width: 768px) {
