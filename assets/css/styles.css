@@ -996,11 +996,11 @@ a.btn-cta {
   }
 
   .SocialSprites{
-    width: 15px;
-    height: 15px;
+    width: 10px;
+    height: 10px;
     margin-left: 15px;
   }
-  
+
 }
 /* Small devices (tablets, 768px and up) */
 @media (min-width: 768px) {
