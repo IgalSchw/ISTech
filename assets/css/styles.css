@@ -996,8 +996,8 @@ a.btn-cta {
   }
 
   .SocialSprites{
-    width: 5px;
-    height: 5px;
+    width: 10px;
+    height: 10px;
     margin-left: 15px;
   }
 
@@ -1025,6 +1025,12 @@ a.btn-cta {
   }
   .text{
     font-size: 20px;
+  }
+
+  .SocialSprites{
+    width: 15px;
+    height: 15px;
+    margin-left: 15px;
   }
 }
 /* Medium devices (desktops, 992px and up) */
