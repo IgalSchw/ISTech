@@ -987,7 +987,7 @@ a.btn-cta {
   }
 
   .text{
-    font-size: 15px;
+    font-size: 20px;
   }
 }
 /* Small devices (tablets, 768px and up) */
@@ -1011,6 +1011,11 @@ a.btn-cta {
   .team-section .item-inner {
     min-height: 515px;
   }
+
+  .text{
+    font-size: 20px;
+  }
+
 }
 /* Medium devices (desktops, 992px and up) */
 @media (min-width: 992px) {
