@@ -985,6 +985,10 @@ a.btn-cta {
   .team-section .item-inner {
     min-height: inherit;
   }
+
+  .text{
+    font-size: 20px;
+  }
 }
 /* Small devices (tablets, 768px and up) */
 @media (min-width: 768px) {
